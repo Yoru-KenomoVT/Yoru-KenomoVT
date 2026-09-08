@@ -155,11 +155,11 @@ const CHACE: Developer = Developer {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chace%20Berry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chace-berry/)
+[![Twitch](https://img.shields.io/badge/Twitch-yoru_kenomovt-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/yoru_kenomovt)
 &nbsp;
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-fab387?style=for-the-badge&logo=buymeacoffee&logoColor=1e1e2e)](https://buymeacoffee.com/chaceberry)
 &nbsp;
-[![HexagridIt](https://img.shields.io/badge/Altrerion-d8e7e8?style=for-the-badge&logoColor=00000)](https://alterion.dpdns.org)
+[![Alterion](https://img.shields.io/badge/Altrerion-d8e7e8?style=for-the-badge&logoColor=00000)](https://alterion.dpdns.org)
 
 <br/>
 
