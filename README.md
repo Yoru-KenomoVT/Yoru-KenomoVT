@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:89b4fa&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<img src="./assets/animated_hero.webp" height="1080" alt="Chace Berry"/>
+<img src="./assets/animated_hero.webp" height="1080" alt="Yoru_KenomoVT"/>
 
 <br/>
 
@@ -24,8 +24,8 @@ struct Developer {
 }
 
 const CHACE: Developer = Developer {
-    name:   "Chace Berry",
-    roles:  ["Lead Dev @ HexagridIt & CoralDune",
+    name:   "Yoru_KenomoVT",
+    roles:  ["Creator of ayatsumi2d",
              "Founder @ Alterion Software",
              "Full-Stack Engineer & Designer"],
     linux_flavor_of_choice:    "Artix Linux  //  Hyprland",
@@ -79,22 +79,15 @@ const CHACE: Developer = Developer {
 
 <br/><br/>
 
-<sub><b>@Chace-Berry</b> &nbsp;·&nbsp; personal</sub>
+<sub><b>@Yoru_KenomoVT</b> &nbsp;·&nbsp; personal</sub>
 
 <br/>
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Chace-Berry/Alterion-lang">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chace-Berry&repo=Alterion-lang&theme=catppuccin_mocha&hide_border=true" width="450" alt="Alterion-lang"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Chace-Berry/Alterion_Panel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chace-Berry&repo=Alterion_Panel&theme=catppuccin_mocha&hide_border=true" width="450" alt="Alterion_Panel"/>
+      <a href="https://github.com/Yoru_KenomoVT/ayatsuri_2d">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoru-KenomoVT&repo=ayatsuri_2d&theme=catppuccin_mocha&hide_border=true" width="450" alt="ayatsuri_2d"/>
       </a>
     </td>
   </tr>
