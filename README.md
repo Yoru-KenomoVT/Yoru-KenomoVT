@@ -23,7 +23,7 @@ struct Developer {
     shell:  &'static str,
 }
 
-const CHACE: Developer = Developer {
+const YORU: Developer = Developer {
     name:   "Yoru_KenomoVT",
     roles:  ["Creator of ayatsumi2d",
              "Founder @ Alterion Software",
